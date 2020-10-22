@@ -13,6 +13,30 @@
 
 MagicMirror² focuses on a modular plugin system and uses [Electron](https://www.electronjs.org/) as an application wrapper. So no more web server or browser installs necessary!
 
+
+## Setup:
+
+Installation:
+https://docs.magicmirror.builders/getting-started/installation.html#usage
+
+Alternative modules:
+https://github.com/MichMich/MagicMirror/wiki/3rd-party-modules
+https://docs.magicmirror.builders/development/introduction.html
+
+
+```
+$ git clone --recursive https://github.com/tshellum/magicmirror.git
+$ chmod +x setup.sh
+$ ./setup.sh
+```
+
+## Run
+
+```
+$ npm run start
+```
+
+
 ## Documentation
 
 For the full documentation including **[installation instructions](https://docs.magicmirror.builders/getting-started/installation.html)**, please visit our dedicated documentation website: [https://docs.magicmirror.builders](https://docs.magicmirror.builders).
